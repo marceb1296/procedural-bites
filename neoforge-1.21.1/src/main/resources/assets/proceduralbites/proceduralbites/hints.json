@@ -1,0 +1,48 @@
+{
+  "top_cup": [
+    "pamhc2foodcore:*yogurtitem",
+    "pamhc2foodextended:*yogurtitem",
+    "pamhc2foodextended:*oatmealitem",
+    "pamhc2foodcore:hotchocolateitem",
+    "pamhc2foodcore:freshmilkitem",
+    "pamhc2foodcore:freshwateritem",
+    "pamhc2foodextended:chaiteaitem",
+    "pamhc2foodextended:dandelionteaitem",
+    "pamhc2foodextended:earlgreyteaitem",
+    "pamhc2foodextended:greenteaitem",
+    "pamhc2foodextended:sundayhighteaitem",
+    "pamhc2foodextended:coffeeconlecheitem",
+    "pamhc2foodextended:hazelnutcoffeeitem",
+    "pamhc2foodextended:espressoitem"
+  ],
+  "none": [
+    "pamhc2foodcore:applejuiceitem",
+    "pamhc2foodcore:chorusjuiceitem",
+    "pamhc2foodcore:glowberryjuiceitem",
+    "pamhc2foodcore:melonjuiceitem",
+    "pamhc2foodcore:sweetberryjuiceitem",
+    "pamhc2foodextended:almondbutteritem",
+    "pamhc2foodextended:cashewbutteritem",
+    "pamhc2foodextended:chestnutbutteritem",
+    "pamhc2foodextended:hazelnutbutteritem",
+    "pamhc2foodextended:peanutbutteritem",
+    "pamhc2foodextended:pecanbutteritem",
+    "pamhc2foodextended:pistachiobutteritem",
+    "pamhc2foodextended:sunflowerseedsbutteritem",
+    "pamhc2foodextended:walnutbutteritem",
+    "pamhc2foodextended:bbqsauceitem",
+    "pamhc2foodextended:energydrinkitem",
+    "pamhc2foodextended:kimchiitem",
+    "pamhc2foodextended:mangochutneyitem",
+    "pamhc2foodextended:misopasteitem",
+    "pamhc2foodextended:mushroomoilitem",
+    "pamhc2foodextended:pumpkinspicelatteitem",
+    "pamhc2foodextended:saladdressingitem",
+    "pamhc2foodextended:vegemiteitem"
+  ],
+  "solid": [
+    "croptopia:croque_monsieur",
+    "pamhc2foodextended:chickenalfredoitem",
+    "pamhc2foodextended:lemonmeringueitem"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "proceduralbites.configuration.title": "Procedural Bites",
+  "proceduralbites.configuration.solids": "Comidas que se muerden",
+  "proceduralbites.configuration.solids.tooltip": "Se aplica al recargar recursos (F3+T).",
+  "proceduralbites.configuration.drinks": "Bebidas, vasos y tazas",
+  "proceduralbites.configuration.drinks.tooltip": "Baja el nivel del líquido. Se aplica al recargar recursos (F3+T).",
+  "proceduralbites.configuration.bowls": "Comida en tazón",
+  "proceduralbites.configuration.bowls.tooltip": "Se aplica al recargar recursos (F3+T).",
+  "proceduralbites.configuration.potions": "Pociones",
+  "proceduralbites.configuration.potions.tooltip": "Se aplica al recargar recursos (F3+T).",
+  "proceduralbites.configuration.excluded": "Ítems excluidos",
+  "proceduralbites.configuration.excluded.tooltip": "Ids de ítems sin animación; * vale por cualquier tramo (minecraft:*_stew). Se aplica al recargar recursos (F3+T).",
+  "proceduralbites.configuration.cache": "Caché de fotogramas",
+  "proceduralbites.configuration.cache.tooltip": "Guarda los fotogramas generados en .cache/proceduralbites para cargar más rápido."
+}

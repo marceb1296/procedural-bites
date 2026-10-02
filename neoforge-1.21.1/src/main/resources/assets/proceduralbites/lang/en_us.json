@@ -1,0 +1,15 @@
+{
+  "proceduralbites.configuration.title": "Procedural Bites",
+  "proceduralbites.configuration.solids": "Bitten foods",
+  "proceduralbites.configuration.solids.tooltip": "Applied on resource reload (F3+T).",
+  "proceduralbites.configuration.drinks": "Drinks, glasses and cups",
+  "proceduralbites.configuration.drinks.tooltip": "The liquid level goes down. Applied on resource reload (F3+T).",
+  "proceduralbites.configuration.bowls": "Food in bowls",
+  "proceduralbites.configuration.bowls.tooltip": "Applied on resource reload (F3+T).",
+  "proceduralbites.configuration.potions": "Potions",
+  "proceduralbites.configuration.potions.tooltip": "Applied on resource reload (F3+T).",
+  "proceduralbites.configuration.excluded": "Excluded items",
+  "proceduralbites.configuration.excluded.tooltip": "Item ids without animation; * matches any run of characters (minecraft:*_stew). Applied on resource reload (F3+T).",
+  "proceduralbites.configuration.cache": "Frame cache",
+  "proceduralbites.configuration.cache.tooltip": "Saves generated frames in .cache/proceduralbites for faster loading."
+}

@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/marceb1296/procedural-bites/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+displayURL="https://github.com/marceb1296/procedural-bites"
+logoFile="proceduralbites.png"
+logoBlur=false
+# Mod solo de cliente: el servidor no necesita tenerlo.
+displayTest="IGNORE_ALL_VERSION"
+description='''
+Food gets bitten and drinks drain while you eat or drink, generated from each item's texture: vanilla, other mods and resource packs, with no hand-drawn frames. Client-side only.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="CLIENT"

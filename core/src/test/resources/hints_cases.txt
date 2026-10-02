@@ -1,0 +1,73 @@
+R	0	top_cup	a:*yogurt
+R	0	top_cup	a:tea
+R	0	top_cup	b:*
+R	0	top_cup	*:cup
+R	0	top_cup	c:x*y*z
+R	0	top_cup	d:same
+R	0	top_cup	e:*ab*
+R	0	top_cup	k:x*
+R	0	none	a:plain*
+R	0	none	a:tea
+R	0	none	d:same
+R	0	none	c:x*z
+R	0	none	e:*abc
+R	0	none	k:*x
+R	0	solid	a:*
+R	0	solid	f:long*name
+R	0	solid	g:**
+R	0	auto	b:keep
+R	0	otro	a:tea
+R	0	none 	h:x
+R	1	none	a:*
+R	1	none	b:milk
+R	1	solid	a:greekyogurt
+R	1	solid	f:*
+R	1	auto	a:plain
+R	1	auto	*:cup
+R	1	top_cup	f:lo*
+R	1	top_cup	e:*bc
+R	3	top_cup	b:keep*
+R	3	top_cup	A:Tea
+R	3	none	
+R	3	none	j*
+R	3	solid	z:*:*
+R	3	solid	i:é*
+C	a:yogurt	none
+C	a:greekyogurt	solid
+C	a:tea	none
+C	a:plain	-
+C	a:plainbun	none
+C	a:other	none
+C	b:milk	none
+C	b:keep	-
+C	b:keeper	top_cup
+C	b:x	top_cup
+C	q:cup	-
+C	c:xyz	top_cup
+C	c:xaybz	top_cup
+C	c:xz	none
+C	c:xy	-
+C	d:same	none
+C	e:ab	top_cup
+C	e:abc	top_cup
+C	e:xabcx	top_cup
+C	e:bc	top_cup
+C	f:longname	top_cup
+C	f:long_name	top_cup
+C	f:lo	top_cup
+C	f:other	solid
+C	g:	solid
+C	g:x	solid
+C	h:x	-
+C	A:Tea	top_cup
+C	a:Tea	none
+C		none
+C	z:a:b	solid
+C	i:éclair	solid
+C	i:eclair	-
+C	yogurt	-
+C	a:yogurt2	none
+C	j	none
+C	jam:x	none
+C	xj	-
+C	k:xx	top_cup
