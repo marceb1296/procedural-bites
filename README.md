@@ -14,6 +14,10 @@ A client-side Minecraft mod that animates eating and drinking. While you eat, th
 
 Items that can't be animated keep their normal model: 3D or block models, animated textures, textures larger than 256x256, and drinks whose liquid isn't visible.
 
+## Download
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/procedural-bites)
+
 ## Requirements
 
 - Minecraft 1.21.1 with NeoForge 21.1.252 or newer.
@@ -92,6 +96,10 @@ Mod de Minecraft, solo de cliente, que anima la comida y la bebida. Mientras se 
 - **Paquetes de recursos:** los fotogramas salen de la textura activa, así que combinan con el paquete.
 
 Lo que no se puede animar queda con su modelo normal: modelos 3D o de bloque, texturas animadas, texturas de más de 256x256 y bebidas que no dejan ver el líquido.
+
+### Descarga
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/procedural-bites)
 
 ### Requisitos
 
